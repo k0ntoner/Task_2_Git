@@ -2,9 +2,9 @@ firstFile git_1 line1
 firstFile git_1 line2
 firstFile git_1 line3
 firstFile git_1 line4
-firstFile git_1 line5
-firstFile git_1 line6
-firstFile git_1 line7
-firstFile git_1 line8
+firstFile git_1 updated line5
+firstFile git_1 updated line6
+firstFile git_1 updated line7
+firstFile git_1 updated line8
 firstFile git_1 line9
 firstFile git_1 line10
