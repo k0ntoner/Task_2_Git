@@ -6,5 +6,5 @@ secondFile git_1 line5
 secondFile git_1 line6
 secondFile git_1 line7
 secondFile git_1 line8
-secondFile git_1 line9
-secondFile git_1 line10
+secondFile git_1 updated line9
+secondFile git_1 updated line10
