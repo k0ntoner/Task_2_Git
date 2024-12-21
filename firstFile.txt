@@ -1,7 +1,7 @@
 firstFile git_1 line1
 firstFile git_1 line2
-firstFile git_1 line3
-firstFile git_1 line4
+firstFile git_1 changed line3
+firstFile git_1 changed line4
 firstFile git_1 updated line5
 firstFile git_1 updated line6
 firstFile git_1 updated line7
